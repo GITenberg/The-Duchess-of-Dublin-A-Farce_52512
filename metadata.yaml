@@ -1,0 +1,29 @@
+_repo: The-Duchess-of-Dublin-A-Farce_52512
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, George M. (George Melville)
+    aliases:
+    - Baker, George Melville
+    - Baker, G. M. (George Melville)
+    birthdate: 1832
+    deathdate: 1890
+    gutenberg_agent_id: '44486'
+    url: http://www.gutenberg.org/2009/agents/44486
+    wikipedia: http://en.wikipedia.org/wiki/George_Melville_Baker
+description: ''
+gutenberg_issued: '2016-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Comedies'
+- GITenberg
+title: 'The Duchess of Dublin: A Farce'
+url: http://www.gutenberg.org/ebooks/52512
